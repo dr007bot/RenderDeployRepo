@@ -1,1 +1,1 @@
-FROM drzawlinmg/main:gclone_main.zip
+FROM npt13/clonebot
