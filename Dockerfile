@@ -1,1 +1,1 @@
-FROM drzawlinmg/main:msgsuiteV2_deploy
+FROM npt13/clonebotMsGsuite
